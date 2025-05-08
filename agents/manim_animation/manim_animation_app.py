@@ -38,7 +38,7 @@ class CircleAnimation(Scene):
         self.play(circle.animate.scale(2))
         self.wait(1)
         """,
-        "square": """
+        "square": """ 
 from manim import *
 
 class SquareAnimation(Scene):
